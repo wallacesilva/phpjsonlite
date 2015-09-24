@@ -16,7 +16,7 @@ class JSONlite
      * Version of this package
      * @var string
      */
-    public $version     = '0.4.2';
+    public $version     = '0.1.0';
 
     /**
      * Set object with Auto document_id
