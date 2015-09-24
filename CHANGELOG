@@ -1,6 +1,10 @@
 CHANGELOG
 =========
 
+## 0.1.1 - *9/24/2015*
+
+- Fix bug using PSR-0. Changed to PSR-4.
+
 ## 0.1.0 - *9/23/2015*
 
 - Released first version based on [nodesocket/jsonlite](https://github.com/nodesocket/jsonlite).
