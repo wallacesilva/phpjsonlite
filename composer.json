@@ -1,0 +1,25 @@
+{
+    "name": "wallacesilva/phpjsonlite",
+    "type": "library",
+    "description": "A simple, self-contained, serverless, zero-configuration, json document store for PHP",
+    "keywords": ["database","driver","nosql"],
+    "homepage": "https://github.com/wallacesilva/phpjsonlite",
+    "license": "APACHE",
+    "authors": [
+        {
+            "name": "Wallace Silva",
+            "email": "contato@wallacesilva.com",
+            "homepage": "http://github.com/wallacesilva/phpjsonlite",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "ramsey/uuid": "^2.8"
+    },
+    "autoload": {
+        "psr-0": {
+            "JSONlite": "src"
+        }
+    }
+}
