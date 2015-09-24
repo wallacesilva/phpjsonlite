@@ -100,7 +100,7 @@ $jsonlite->version()
 
 ## Changelog
 
-https://github.com/wallacesilva/phpjsonlite/blob/master/CHANGELOG.md
+https://github.com/wallacesilva/phpjsonlite/blob/master/CHANGELOG
 
 ## Support, Bugs, And Feature Requests
 
